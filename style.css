@@ -1,0 +1,19 @@
+body {
+    background: black;
+    font: Normal 16px Arial;
+    text-align: center;
+}
+
+header {
+    color: rgb(229, 84, 84);
+}
+
+img {
+    border: 2px solid red;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
